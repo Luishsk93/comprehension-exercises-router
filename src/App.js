@@ -6,7 +6,7 @@ import { BrowserRouter, Route, Link, Switch } from 'react-router-dom'
 import StrictAccess from './StrictAccess';
 
 const user = {
-  username: 'joao',
+  username: 'joa1',
   password: 1234,
 }
 
